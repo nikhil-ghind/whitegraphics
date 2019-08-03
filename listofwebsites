@@ -1,0 +1,27 @@
+favicon-generator.org
+favicon.ico
+realfavicongenerator.net
+fonts.google.com
+fontsquirrel.com
+flaticon.com
+fontpair.co
+unsplash.com//For high clarity images
+coolors.co///for generating combinations colors.
+color-blindness.com
+animation animate.css
+extensions--- wireframify
+extensions-- colorzilla ka colorpicker
+we have FLOATED icon in services section but we have not applied clearfix.
+tinypng.com/ this is used to reduce the size of file so as to upload the files
+autoprefixer.io // this is used to add the css and get prefixes for all unsupported browsers..
+prunmaster.github.io .....////......used to check limitations..
+justhost
+bluehost
+godaddy
+bigrock
+
+select2.js // this is used to make dropdown
+
+jquery.validate // validation for the add category form.
+
+2)we have floated the bg-diagonal and have not used clearfix in it..
